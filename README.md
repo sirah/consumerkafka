@@ -1,3 +1,3 @@
 # consumerkafka
 consumer KAFKA
-simple java project used to create a kafka consumer
+is a simple java project used to create a kafka consumer
